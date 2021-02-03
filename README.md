@@ -212,7 +212,7 @@ Immunology And Cancer</a></li>
  
  
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(78).pdf" style="text-decoration:none;">Individual Differences in Speech Production and Perception</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(79).pdf" style="text-decoration:none;">Automatically constructing a dictionary for information extraction tasks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(79).pdf" style="text-decoration:none;">Cell Biology</a></li>
 
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(80).pdf" style="text-decoration:none;">Novel
@@ -249,7 +249,7 @@ Neurodegenerative Disease</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(92).pdf" style="text-decoration:none;">Medicinal Plants
 and Natural Product Research</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(93).pdf" style="text-decoration:none;">Adaptive Information Extraction from Text by Rule Induction and Generalisation</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(93).pdf" style="text-decoration:none;">Microbiology: A Laboratory Experience</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(94).pdf" style="text-decoration:none;">Biochar as Soil
 Amendment: Impact on Soil Properties and Sustainable Resource Management</a></li> 
   
@@ -459,7 +459,7 @@ Anhydrases and Metabolism</a></li>
 and Experimental Design: How to Not Lie with Statistics</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(169).pdf" style="text-decoration:none;">Diagnosis
 and Surgical Treatment of Epilepsy</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(170).pdf" style="text-decoration:none;">A Domain-independent Rule-based Framework for Event Extraction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(170).pdf" style="text-decoration:none;">Biofundamentals</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(171).pdf" style="text-decoration:none;">The Psychology of
 Silicon Valley: Ethical Threats and Emotional Unintelligence in the Tech Industry</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(172).pdf" style="text-decoration:none;">Rethinking Causality,
@@ -767,8 +767,7 @@ application in gas separation</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(293).pdf" style="text-decoration:none;">2016 Pacific Symposium on Biocomputing</a></li>
 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(294).pdf" style="text-decoration:none;">Precision
-Agriculture Technology For Crop Farming</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(294).pdf" style="text-decoration:none;">Chemical Biology and Biochemistry Laboratory Using Genetic Code Expansion Manual</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(295).pdf" style="text-decoration:none;">Quantitative Biology: Dynamics
 Of Living Systems</a></li>
