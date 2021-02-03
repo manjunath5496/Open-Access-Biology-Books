@@ -770,4 +770,22 @@ application in gas separation</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(294).pdf" style="text-decoration:none;">Precision
 Agriculture Technology For Crop Farming</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(295).pdf" style="text-decoration:none;">Quantitative Biology: Dynamics
+Of Living Systems</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(296).pdf" style="text-decoration:none;">Foundations Of
+Theoretical Approaches In Systems Biology</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(297).pdf" style="text-decoration:none;">Metal Complex Interactions with Nucleic Acids and/or DNA</a></li>
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(298).pdf" style="text-decoration:none;">Chloroplast</a></li>
+
+
+
+
+
+
+
+
+
 </ul>
