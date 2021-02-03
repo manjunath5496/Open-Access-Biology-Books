@@ -483,43 +483,55 @@ and Environmental Factor Contributions to Maize Yield</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(180).pdf" style="text-decoration:none;">Wine Aging
 Technologies</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(181).pdf" style="text-decoration:none;">Automatically Labeled Data Generation for Large Scale Event Extraction</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(182).pdf" style="text-decoration:none;">Exploiting Argument Information to Improve Event Detection via Supervised Attention Mechanisms </a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(183).pdf" style="text-decoration:none;">English Event DetectionWith Translated Language Features</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(181).pdf" style="text-decoration:none;">Antioxidants
+and Second Messengers of Free Radicals</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(182).pdf" style="text-decoration:none;">Micronutrients
+Intake and Status during Pregnancy and Lactation </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(183).pdf" style="text-decoration:none;">Impotent Warriors</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(184).pdf" style="text-decoration:none;">Determining Whether and When People Participate in the Events They Tweet About</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(184).pdf" style="text-decoration:none;">Study of intracellular signaling pathways in Chronic Myeloproliferative Neoplasms</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(185).pdf" style="text-decoration:none;">Self-regulation: Employing a Generative Adversarial Network to Improve Event Detection</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(185).pdf" style="text-decoration:none;">Annals of the History
+and Philosophy of Biology Volume 14 (2009)</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(186).pdf" style="text-decoration:none;">Nugget Proposal Networks for Chinese Event Detection</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(186).pdf" style="text-decoration:none;">The Szczecin Lagoon Ecosystem:
+The Biotic Community of the Great Lagoon and its Food Web Model</a></li>
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(187).pdf" style="text-decoration:none;">Zero-Shot Transfer Learning for Event Extraction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(187).pdf" style="text-decoration:none;">Cyborg Mind</a></li>
                              
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(188).pdf" style="text-decoration:none;">Document Embedding Enhanced Event Detection with Hierarchical and Supervised Attention</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(188).pdf" style="text-decoration:none;">Envy, Poison,
+and Death: Women on Trial in Classical Athens</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(189).pdf" style="text-decoration:none;">Distilling Discrimination and Generalization Knowledge for Event Detection via Delta-Representation Learning</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(190).pdf" style="text-decoration:none;">Detecting Subevents using Discourse and Narrative Features</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(190).pdf" style="text-decoration:none;">Rethinking Health Care Ethics</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(191).pdf" style="text-decoration:none;">Cost-sensitive Regularization for Label Confusion-aware Event Detection  </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(191).pdf" style="text-decoration:none;">Autonomy, Rationality, and Contemporary Bioethics  </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(192).pdf" style="text-decoration:none;">Exploring Pre-trained Language Models for Event Extraction and Generation</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(192).pdf" style="text-decoration:none;">The Bionarrative: The story of life and hope for the future</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(193).pdf" style="text-decoration:none;">The Syntax of Event Structure</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(193).pdf" style="text-decoration:none;">Human Challenge Studies
+in Endemic Settings: Ethical and Regulatory Issues</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(194).pdf" style="text-decoration:none;">A Hierarchical Distance-dependent Bayesian Model for Event Coreference Resolution</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(194).pdf" style="text-decoration:none;">Negotiating Bioethics: 
+The governance of UNESCO's Bioethics Programme</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(195).pdf" style="text-decoration:none;">Acquiring Topic Features to Improve Event Extraction: in Pre-selected and Balanced Collections</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(195).pdf" style="text-decoration:none;">The Ethics of
+Vaccination</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(196).pdf" style="text-decoration:none;">Improving Event Detection with Active Learning</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(196).pdf" style="text-decoration:none;">The Origin and the Evolution
+of Firms</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(197).pdf" style="text-decoration:none;">Event Extraction as Frame-Semantic Parsing</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(197).pdf" style="text-decoration:none;">Bioinformatics of genome evolution: from ancestral to modern metabolism</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(198).pdf" style="text-decoration:none;">Biomedical event extraction with a novel combination strategy based on hybrid deep neural networks</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(198).pdf" style="text-decoration:none;">Egg Consumption
+and Human Health</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(199).pdf" style="text-decoration:none;">Event Extraction with Complex Event Classification Using Rich Features</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(199).pdf" style="text-decoration:none;">Sport, Spirituality,
+and Religion: New Intersections</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(200).pdf" style="text-decoration:none;">A Survey of Open Domain Event Extraction</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(200).pdf" style="text-decoration:none;">A Unifying Theory of
+Evolution generated by means of information modelling</a></li>                              
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(201).pdf" style="text-decoration:none;">A neural network based Event extraction system for Indian languages</a></li> 
   
