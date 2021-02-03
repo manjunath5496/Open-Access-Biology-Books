@@ -747,6 +747,27 @@ in Plants</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(285).pdf" style="text-decoration:none;">Seaweeds
 Secondary Metabolites</a></li>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(286).pdf" style="text-decoration:none;">Short RotationWoody Crop Production Systems for Ecosystem Services and Phytotechnologies</a></li>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(287).pdf" style="text-decoration:none;"> Structure, Chemical
+Analysis, Biosynthesis, Metabolism, Molecular Engineering and Biological Functions of Phytoalexins </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(288).pdf" style="text-decoration:none;">
+Transcriptional Regulation: Molecules, Involved Mechanisms and Misregulation</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(289).pdf" style="text-decoration:none;">Urban and
+Periurban Forest Diversity and Ecosystem Services</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(290).pdf" style="text-decoration:none;">Virus
+Bioinformatics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(291).pdf" style="text-decoration:none;">3D Remote Sensing
+Applications in Forest Ecology</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(292).pdf" style="text-decoration:none;">Thin film MOFs (SURMOFs) for
+application in gas separation</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(293).pdf" style="text-decoration:none;">2016 Pacific Symposium on Biocomputing</a></li>
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(294).pdf" style="text-decoration:none;">Precision
+Agriculture Technology For Crop Farming</a></li>
 
 </ul>
