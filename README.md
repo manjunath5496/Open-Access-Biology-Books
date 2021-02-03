@@ -30,14 +30,14 @@ and Health</a></li>
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(10).pdf" style="text-decoration:none;">Role of DNA
 Methyltransferases in the Epigenome</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(11).pdf" style="text-decoration:none;">Emerging Functions
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(11).PDF" style="text-decoration:none;">Emerging Functions
 Of Septins</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(12).pdf" style="text-decoration:none;">Advances
 in Flavivirus Research</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(13).pdf" style="text-decoration:none;">Systems Biology And The
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(13).PDF" style="text-decoration:none;">Systems Biology And The
 Challenge Of Deciphering The Metabolic Mechanisms Underlying Cancer</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(14).pdf" style="text-decoration:none;">Molecular Mechanisms And
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(14).PDF" style="text-decoration:none;">Molecular Mechanisms And
 Physiological Significance Of Organelle Interactions And Cooperation</a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(15).pdf" style="text-decoration:none;">Polyamine
@@ -49,7 +49,7 @@ Non-Dietary Phytochemicals and Cancer</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(17).pdf" style="text-decoration:none;">Marine
 Glycobiology, Glycomics and Lectins</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(18).pdf" style="text-decoration:none;">Signalling Pathways In
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(18).PDF" style="text-decoration:none;">Signalling Pathways In
 Embryonic Development</a></li> 
 
   
@@ -58,7 +58,7 @@ Embryonic Development</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(20).pdf" style="text-decoration:none;">Emerging Marine
 Biotoxins</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(21).pdf" style="text-decoration:none;">Mitogen Activated
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(21).PDF" style="text-decoration:none;">Mitogen Activated
 Protein Kinases</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(22).pdf" style="text-decoration:none;">Biological and
 Biogenic Crystallization</a></li> 
@@ -66,10 +66,10 @@ Biogenic Crystallization</a></li>
 and Disease</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(24).pdf" style="text-decoration:none;">Tumor Hypoxia: Impact
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(24).PDF" style="text-decoration:none;">Tumor Hypoxia: Impact
 In Tumorigenesis, Diagnosis, Prognosis And Therapeutics</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(25).pdf" style="text-decoration:none;">Mobile Genetic Elements In
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(25).PDF" style="text-decoration:none;">Mobile Genetic Elements In
 Cellular Differentiation, Genome Stability, And Cancer</a></li>                              
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(26).pdf" style="text-decoration:none;">Nutrition in
 Inflammatory Bowel Disease (IBD)</a></li>
@@ -83,7 +83,7 @@ Metabolism in Health and Disease</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(29).pdf" style="text-decoration:none;">Functional
 and Bioactive Properties of Food </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(30).pdf" style="text-decoration:none;">Astrocytic-neuronal-astrocytic
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(30).PDF" style="text-decoration:none;">Astrocytic-neuronal-astrocytic
 Pathway Selection For Formation And Degradation Of Glutamate Gaba</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(31).pdf" style="text-decoration:none;">Catalytic Methods
@@ -106,7 +106,7 @@ Pregnancy Nutrition in Maternal and Offspring Health</a></li>
 Databases: Techniques, Politics, and Applications</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(38).pdf" style="text-decoration:none;">Unconventional
 Anticancer Metallodrugs and Strategies to Improve their Pharmacological Profile</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(39).pdf" style="text-decoration:none;">In Search Of In Vivo Msc</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(39).PDF" style="text-decoration:none;">In Search Of In Vivo Msc</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(40).pdf" style="text-decoration:none;">Carotenoids</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(41).pdf" style="text-decoration:none;">Genome Mining
 and Marine Microbial Natural Products</a></li>
@@ -134,19 +134,19 @@ of Bioactive Components in Edible Algae</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(50).pdf" style="text-decoration:none;">Cell Lineage
 Choice During Haematopoiesis</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(51).pdf" style="text-decoration:none;">Sustainability Indicators in Practice</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(52).pdf" style="text-decoration:none;">Promiscuous Functions
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(52).PDF" style="text-decoration:none;">Promiscuous Functions
 Of The Prion Protein Gene Family</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(53).pdf" style="text-decoration:none;">Modern
 Technologies and Their Influence in Fermentation Quality</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(54).pdf" style="text-decoration:none;">Recent Investigations
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(54).PDF" style="text-decoration:none;">Recent Investigations
 Of Ergot Alkaloids Incorporated Into Plant And/or Animal Systems </a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(55).pdf" style="text-decoration:none;">Repetitive DNA
 Sequences</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(56).pdf" style="text-decoration:none;">Genetics And
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(56).PDF" style="text-decoration:none;">Genetics And
 Epigenetics Of Fetal Alcohol Spectrum Disorders</a></li>                              
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(57).pdf" style="text-decoration:none;">Extraintestinal
@@ -194,7 +194,7 @@ Mechanismbased Treatments for Fragile X Syndrome</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(71).pdf" style="text-decoration:none;">Coffee and Caffeine
 Consumption for Human Health</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(72).pdf" style="text-decoration:none;">Microenvironment derived
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(72).PDF" style="text-decoration:none;">Microenvironment derived
 Stem Cell Plasticity</a></li> 
  
  
@@ -207,7 +207,7 @@ and Hypertension</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(76).pdf" style="text-decoration:none;">Safety, Quality and
 Processing of Fruits and Vegetables</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(77).pdf" style="text-decoration:none;">Advances In Systems
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(77).PDF" style="text-decoration:none;">Advances In Systems
 Immunology And Cancer</a></li> 
  
  
@@ -224,7 +224,7 @@ Metabolomics 2018</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(82).pdf" style="text-decoration:none;">Microbial Biofilms
 in Healthcare: Formation, Prevention and Treatment</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(83).pdf" style="text-decoration:none;">Organogenesis: From
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(83).PDF" style="text-decoration:none;">Organogenesis: From
 Development To Disease</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(84).pdf" style="text-decoration:none;">Food
 Authentication: Techniques, Trends and Emerging Approaches</a></li>
@@ -236,7 +236,7 @@ Function of the Central Nervous System</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(87).pdf" style="text-decoration:none;">Dietary
 Antioxidants and Prevention of Non-Communicable Diseases</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(88).pdf" style="text-decoration:none;">Adrenal Cortex:
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(88).PDF" style="text-decoration:none;">Adrenal Cortex:
 From Physiology To Disease</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(89).pdf" style="text-decoration:none;">Nutrition and
 Vulnerable Groups</a></li>
@@ -253,10 +253,10 @@ and Natural Product Research</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(94).pdf" style="text-decoration:none;">Biochar as Soil
 Amendment: Impact on Soil Properties and Sustainable Resource Management</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(95).pdf" style="text-decoration:none;">Emerging Roles Of
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(95).PDF" style="text-decoration:none;">Emerging Roles Of
 Long Noncoding Rnas In Neurological Diseases And Metabolic Disorders</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(96).pdf" style="text-decoration:none;">Regulation Of Red Cell
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(96).PDF" style="text-decoration:none;">Regulation Of Red Cell
 Life-span, Erythropoiesis, Senescence And Clearance</a></li> 
   
   
@@ -292,7 +292,7 @@ Technology in Nutrition Analysis</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(106).pdf" style="text-decoration:none;">New Lipid Lowering
 Therapies for Cardiovascular and Metabolic Diseases</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(107).pdf" style="text-decoration:none;">Beyond The Conventional
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(107).PDF" style="text-decoration:none;">Beyond The Conventional
 Renin Angiotensin System</a></li> 
   
    
@@ -326,7 +326,7 @@ Pregnancy and Lactation</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(117).pdf" style="text-decoration:none;">Extracellular
 Matrix in Development and Disease</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(118).pdf" style="text-decoration:none;">Alterations Of Epigenetics
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(118).PDF" style="text-decoration:none;">Alterations Of Epigenetics
 And Micrornas In Cancer And Cancer Stem Cell</a></li>  
    
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(119).pdf" style="text-decoration:none;">Structural and functional aspects of membranes: the involvement of lipid rafts in Alzheimer's disease pathogenesis</a></li> 
