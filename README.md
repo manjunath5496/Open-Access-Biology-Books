@@ -622,4 +622,48 @@ and Molecular Imprinting</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(236).pdf" style="text-decoration:none;">Chemical Biology of
 Sterols, Triterpenoids and Other Natural Products</a></li>
+
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(237).pdf" style="text-decoration:none;">Deep Brain
+Stimulation (DBS) Applications</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(238).pdf" style="text-decoration:none;">Disease and the
+Hippo Pathway Cellular and Molecular Mechanisms</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(239).pdf" style="text-decoration:none;">Fungal Endophytes
+in Plants</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(240).pdf" style="text-decoration:none;">Hardwood
+Reforestation and Restoration</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(241).pdf" style="text-decoration:none;">Mesothelioma
+Heterogeneity Potential Mechanisms</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(242).pdf" style="text-decoration:none;">Molecular Advances in Wheat and
+Barley</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(243).pdf" style="text-decoration:none;">Nucleic Acid Architectures for
+Therapeutics, Diagnostics, Devices and Materials</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(244).pdf" style="text-decoration:none;"> Role Of Stem Cells In Skeletal Muscle Development, Regeneration, Repair, Aging And Disease </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(245).pdf" style="text-decoration:none;">
+Synthetic DNA and RNA Programming</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(246).pdf" style="text-decoration:none;">The Tumor
+Microenvironment of High Grade Serous Ovarian Cancer</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(247).pdf" style="text-decoration:none;">Assessment and
+Governance of Sustainable Soil Management</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(248).pdf" style="text-decoration:none;">Biodiversity of
+Vegetable Crops, A Living Heritage</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(249).pdf" style="text-decoration:none;">BioEnergy and BioChemicals
+Production from Biomass and Residual Resources</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Biology-Books/blob/master/bio(250).pdf" style="text-decoration:none;">Biological Activity of
+Natural Secondary Metabolite Products</a></li>
+
+
+
+
+
+
+
+
 </ul>
